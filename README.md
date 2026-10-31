@@ -18,7 +18,7 @@ YOLO :
 - Ultralytics 8.4.157
 - Python 3.10.12
 - PyTorch 2.14.0+cpu
-SSD MobileNet
+- SSD MobileNet
 - Python 3.10.12
 - TensorFlow 2.15.1
 - Protobuf 4.23.4
@@ -27,4 +27,4 @@ SSD MobileNet
 - Data Training 70% (1.189 gambar)
 - Data Validation 10% (170 gambar)
 - Data Test 20% (340 gambar)
-🔗 https://doi.org/10.6084/m9.figshare.19625166
+- 🔗 https://doi.org/10.6084/m9.figshare.19625166
