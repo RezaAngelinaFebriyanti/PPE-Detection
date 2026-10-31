@@ -18,6 +18,7 @@ YOLO :
 - Ultralytics 8.4.157
 - Python 3.10.12
 - PyTorch 2.14.0+cpu
+
 SSD MobileNet : 
 - Python 3.10.12
 - TensorFlow 2.15.1
