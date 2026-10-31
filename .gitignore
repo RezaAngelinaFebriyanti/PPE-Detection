@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.tflite
+
+# Dataset and generated records
+*.tfrecord
+*.record
+*.cache
+
+# TensorFlow generated model files
+saved_model/
+checkpoint/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
