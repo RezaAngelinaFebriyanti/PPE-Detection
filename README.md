@@ -24,6 +24,14 @@ SSD MobileNet :
 - TensorFlow 2.15.1
 - Protobuf 4.23.4
 - libprotoc 27.3
+
+Faster R-CNN :
+- Python 3.10.6
+- PyTorch 2.4.1
+- Torchvision 0.19.1
+- Torch-DirectML 0.2.5.dev240914 
+- Numpy 2.2.6
+
 ## Dataset
 - Data Training 70% (1.189 gambar)
 - Data Validation 10% (170 gambar)
