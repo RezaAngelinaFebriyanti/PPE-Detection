@@ -46,7 +46,7 @@ Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score.
 
 ### Hasil Data Evaluasi
 
-| Model | Konfigurasi | Precision | Recall | F1-Score |
+| Model | Training | Precision | Recall | F1-Score |
 |---|---|---:|---:|---:|
 | Faster R-CNN | Epoch 10 | 85,52% | 89,27% | 87,35% |
 | YOLOv11s | Epoch 20 | 84,30% | 79,40% | 81,78% |
@@ -56,7 +56,7 @@ Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score.
 
 ### Hasil Data Test
 
-| Model | Konfigurasi | Precision | Recall | F1-Score |
+| Model | Training | Precision | Recall | F1-Score |
 |---|---|---:|---:|---:|
 | Faster R-CNN | Epoch 10 | 86,15% | 89,22% | 87,66% |
 | YOLOv11s | Epoch 40 | 91,65% | 81,89% | 86,49% |
