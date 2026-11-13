@@ -42,7 +42,7 @@ Faster R-CNN :
 
 Pengujian dilakukan untuk membandingkan performa tiga model deteksi APD, yaitu Faster R-CNN, YOLOv11s, dan SSD MobileNet.
 
-Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score.
+Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score dengan IoU 0,5 dan Confidence 0,4
 
 ### Hasil Data Evaluasi
 
@@ -53,6 +53,7 @@ Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score.
 | YOLOv11s | Epoch 30 | 86,20% | 81,10% | 83,57% |
 | YOLOv11s | Epoch 40 | 86,20% | 82,70% | 84,41% |
 | SSD MobileNet | 6.000 Steps | 39,06% | 27,58% | 32,33% |
+| SSD MobileNet | 10.000 Steps | 23,02% | 7,68% | 11,52% |
 
 ### Hasil Data Test
 
@@ -61,3 +62,4 @@ Evaluasi performa menggunakan metrik Precision, Recall, dan F1-Score.
 | Faster R-CNN | Epoch 10 | 86,15% | 89,22% | 87,66% |
 | YOLOv11s | Epoch 40 | 91,65% | 81,89% | 86,49% |
 | SSD MobileNet | 6.000 Steps | 36,86% | 24,28% | 29,27% |
+| SSD MobileNet | 10.000 Steps | 18,20% | 7,04% | 10,16% |
